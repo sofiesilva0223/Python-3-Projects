@@ -36,6 +36,15 @@ newprice= '{0:.5g}'.format(customer_one_total)
 print("Customer One Total: "+ str (newprice))
 
 
+"""
+OUTPUT:
 
+Customer One Items: 
+Stylish Settee. Faux leather on birch. 29.50 inches high x 54.75 inches wide x 28 inches deep. Black.
+
+Luxurious Lamp. Glass and iron. 36 inches tall. Brown with cream shade.
+
+Customer One Total: 333.09
+"""
 
 
