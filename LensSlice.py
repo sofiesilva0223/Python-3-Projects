@@ -22,3 +22,16 @@ print(priciest_pizza)
 #getting 3 of the cheapest prices of pizza
 three_cheapest=pizza_and_prices[:3]
 print(three_cheapest)
+
+"""
+OUTPUT:
+
+3
+We sell 7 different kinds of pizza!
+[[2, 'pepperoni'], [6, 'pineapple'], [1, 'cheese'], [3, 'sausage'], [2, 'olives'], [7, 'anchovies'], [2, 'mushrooms']]
+[[1, 'cheese'], [2, 'mushrooms'], [2, 'olives'], [2, 'pepperoni'], [3, 'sausage'], [6, 'pineapple'], [7, 'anchovies']]
+[1, 'cheese']
+[7, 'anchovies']
+[[1, 'cheese'], [2, 'mushrooms'], [2, 'olives']]
+
+"""
