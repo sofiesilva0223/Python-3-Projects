@@ -29,3 +29,14 @@ elif weight>6 and weight<=10:
 elif weight>10:
   total=weight*14.25
   print("Cost: $",total)
+
+"""
+OUTPUT:
+
+Ground shipping: 
+Cost: $ 400.0
+Ground Shipping Premium is a flat charge of  125.0
+Drone shipping:
+Cost: $ 1140.0
+
+"""
