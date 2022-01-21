@@ -32,3 +32,22 @@ print(average_daily_revenue)
 #advertising haircuts under $30
 cuts_under_30 = [hairstyles[i] for i in range(len(hairstyles)) if prices[i]<30]
 print(cuts_under_30)
+
+"""
+OUTPUT:
+
+30
+55
+95
+115
+135
+170
+220
+255
+The average cost of a haircut is 31.875
+New Prices: [25, 20, 35, 15, 15, 30, 45, 30]
+Total Revenue: 1085
+155.0
+['pixie', 'crew', 'bowl']
+
+"""
