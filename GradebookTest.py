@@ -22,3 +22,14 @@ print(gradebook)
 full_gradebook=last_semester_gradebook+gradebook
 print(full_gradebook)
 
+"""
+OUTPUT:
+
+['physics', 98], ['calculus', 97], ['poetry', 85], ['history', 88]]
+[['physics', 98], ['calculus', 97], ['poetry', 85], ['history', 88], ['computer science', 100]]
+[['physics', 98], ['calculus', 97], ['poetry', 85], ['history', 88], ['computer science', 100], ['visual arts', 98]]
+[['physics', 98], ['calculus', 97], ['poetry'], ['history', 88], ['computer science', 100], ['visual arts', 98]]
+[['physics', 98], ['calculus', 97], ['poetry', 'Pass'], ['history', 88], ['computer science', 100], ['visual arts', 98]]
+[['politics', 80], ['latin', 96], ['dance', 97], ['architecture', 65], ['physics', 98], ['calculus', 97], ['poetry', 'Pass'], ['history', 88], ['computer science', 100], ['visual arts', 98]]
+
+"""
