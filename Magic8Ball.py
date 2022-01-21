@@ -30,3 +30,11 @@ else:
 #Output
 print(name+" asks: "+question)
 print("Magic 8-Ball's answer: "+ answer)
+
+"""
+OUTPUT SAMPLE (One of 9 possible):
+4
+Sofia Silva asks: Will I be lucky today?
+Magic 8-Ball's answer: Reply,hazy,try again.
+
+"""
